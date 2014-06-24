@@ -1,0 +1,13 @@
+total 120
+-rw-r--r--    1 bcrespin  2013   1253 May  7 17:07 Makefile
+-rwxr-xr-x    1 bcrespin  2013   8768 May 10 13:29 a.out
+-rw-r--r--    1 bcrespin  2013      9 May  6 17:04 auteur
+drwxr-xr-x    3 bcrespin  2013    102 May  8 16:52 headers
+-rw-r--r--    1 bcrespin  2013    707 May 11 19:11 infile
+drwxr-xr-x  128 bcrespin  2013   4352 May 11 19:12 libft
+-rw-r--r--    1 bcrespin  2013      6 May  7 18:25 outfile
+-rw-r--r--@   1 bcrespin  2013   2723 May 11 19:12 pipe.c
+-rw-r--r--    1 bcrespin  2013   7448 May 11 19:12 pipe.o
+-rwxr-xr-x    1 bcrespin  2013  14312 May 11 19:12 pipex
+-rwxr-xr-x    1 bcrespin  2013      9 May 11 19:11 prout
+drwxr-xr-x    5 bcrespin  2013    170 May  8 16:39 testwil
